@@ -18,7 +18,9 @@
     </em>
 </p>
 <p align="center">
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-en.md)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
 <a href="https://github.com/fenwii/LibraryBookSearchEnginePro"><img src="https://img.shields.io/github/downloads/fenwii/awesome-structued-prompts/total"></a>
 </p>
 
@@ -27,7 +29,7 @@
 * [2.英语翻译家与优化师](fenwii/structed-prompt/llms/chinese/2.英语翻译家与优化师.txt)
 * [3.职位面试官](fenwii/structed-prompt/llms/chinese/3.职位面试官.txt)
 * [4.JavaScript控制台](fenwii/structed-prompt/llms/chinese/4.JavaScript控制台.txt)
-* [5. Excel工作表](fenwii/structed-prompt/llms/chinese/5. Excel工作表.txt)
+* [5.Excel工作表](fenwii/structed-prompt/llms/chinese/5.Excel工作表.txt)
 
 <p align="center">
 =================深度交流==================
