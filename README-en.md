@@ -25,8 +25,12 @@
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 ![LICENSE](https://wangchujiang.com/sb/license/mit.svg)
 
-##  Structued-Prompt
+## Usage method
+Directly copy the structured prompt text content to ChatGPT、Claude、ChatGLM、Baichuan，Stable Diffusion,Midjourney Platform Input Box.
 
+
+
+##  Structued-Prompt
 <p align="center">
 =================Deep communication==================
 </p>
