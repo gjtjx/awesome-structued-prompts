@@ -15,7 +15,7 @@
     
     构建AGI通用人工智能，通过结构化提示词智能体雏形，Agents智能体，Bot专用机器人，Copilot助理，统称ABCS，实现Ai自动化推理，逻辑判读和任务执行
     尝试构建通用的结构化提示词Agents代理。
-    </em>
+  </em>
 </p>
 <p align="center">
 

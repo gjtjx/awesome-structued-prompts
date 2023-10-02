@@ -11,13 +11,13 @@
 </p>
 <p align="center">
     <em>
-This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,structued-prompt curation to use LLM better.
+    This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,structued-prompt curation to use LLM better.
 
 
-Building AGI universal artificial intelligence, through the prototype of structured prompt word intelligent agents, Agents intelligent agents, Bot specialized robots, Copilot assistants, collectively known as ABCS, to achieve AI automated reasoning, logical interpretation, and task execution.
+    Building AGI universal artificial intelligence, through the prototype of structured prompt word intelligent agents, Agents intelligent agents, Bot specialized robots, Copilot assistants, collectively known as ABCS, to achieve AI automated reasoning, logical interpretation, and task execution.
 
-Try to build common structued-prompt agents.
-</em>
+    Try to build common structued-prompt agents.
+   </em>
 </p>
 <p align="center">
 
