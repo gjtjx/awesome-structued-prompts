@@ -28,8 +28,6 @@
 ## Usage method
 Directly copy the structured prompt text content to ChatGPT、Claude、ChatGLM、Baichuan，Stable Diffusion,Midjourney Platform Input Box.
 
-
-
 ##  Structued-Prompt
 <p align="center">
 =================Deep communication==================
