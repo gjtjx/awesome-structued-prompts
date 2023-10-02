@@ -20,7 +20,7 @@ Try to build common structued-prompt agents.
 </em>
 </p>
 <p align="center">
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 <a href="https://github.com/fenwii/LibraryBookSearchEnginePro"><img src="https://img.shields.io/github/downloads/fenwii/awesome-structued-prompts/total"></a>
 </p>
 
