@@ -27,7 +27,7 @@
 
 ## 使用方法
 
-直接拷贝结构化提示词文本内容到ChatGPT、Claude、智谱ChatGLM、百川，Stable Diffusion,Midjourney平台输入框
+直接拷贝结构化提示词文本内容到ChatGPT、Claude、智谱ChatGLM、百川Baichuat、Stable Diffusion、Midjourney平台输入框。
 
 ## 结构化提问
 * [1.Linux终端](fenwii/structed-prompt/llms/chinese/1.Linux终端.txt)
