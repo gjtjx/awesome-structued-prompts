@@ -42,6 +42,10 @@
 * [10.扮演电影、书或任何东西](fenwii/structed-prompt/llms/chinese/10.扮演电影、书或任何东西.txt)
 * [11.广告商](fenwii/structed-prompt/llms/chinese/11.广告商.txt)
 * [12.讲故事的人](fenwii/structed-prompt/llms/chinese/12.讲故事的人.txt)
+* [13.足球评论员](fenwii/structed-prompt/llms/chinese/13.足球评论员.txt)
+* [14.单口相声演员](fenwii/structed-prompt/llms/chinese/14.单口相声演员.txt)
+* [15.励志教练](fenwii/structed-prompt/llms/chinese/15.励志教练.txt)
+* [16.创作者](fenwii/structed-prompt/llms/chinese/16.创作者.txt)
 
 
 <p align="center">
