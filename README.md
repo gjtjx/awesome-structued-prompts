@@ -11,9 +11,9 @@
 </p>
 <p align="center">
     <em>
-    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Stable Diffusion,Midjourney、结构化提示词以更好地使用LLM大语言模型。
+    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Baichuan、Stable Diffusion、Midjourney、结构化提示词以更好地使用LLM大语言模型。
     
-    构建AGI通用人工智能，通过结构化提示词智能体雏形，Agents智能体，Bot专用机器人，Copilot助理，统称ABCS，实现Ai自动化推理，逻辑判读和任务执行
+    构建AGI通用人工智能，通过结构化提示词智能体雏形，Agents智能体，Bot专用机器人，Copilot助理，统称ABCS，实现Ai自动化推理，逻辑判断和任务执行，
     尝试构建通用的结构化提示词Agents代理。
   </em>
 </p>
@@ -35,6 +35,14 @@
 * [3.职位面试官](fenwii/structed-prompt/llms/chinese/3.职位面试官.txt)
 * [4.JavaScript控制台](fenwii/structed-prompt/llms/chinese/4.JavaScript控制台.txt)
 * [5.Excel工作表](fenwii/structed-prompt/llms/chinese/5.Excel工作表.txt)
+* [6.英语发音助手](fenwii/structed-prompt/llms/chinese/6.英语发音助手.txt)
+* [7.英语口语教师与优化师](fenwii/structed-prompt/llms/chinese/7.英语口语教师与优化师.txt)
+* [8.旅行指南](fenwii/structed-prompt/llms/chinese/8.旅行指南.txt)
+* [9.剽窃检查器](fenwii/structed-prompt/llms/chinese/9.剽窃检查器.txt)
+* [10.扮演电影、书或任何东西](fenwii/structed-prompt/llms/chinese/10.扮演电影、书或任何东西.txt)
+* [11.广告商](fenwii/structed-prompt/llms/chinese/11.广告商.txt)
+* [12.讲故事的人](fenwii/structed-prompt/llms/chinese/12.讲故事的人.txt)
+
 
 <p align="center">
 =================深度交流==================
