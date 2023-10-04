@@ -54,6 +54,7 @@
 * [22.AGI通用人工智能公司](fenwii/structed-prompt/llms/chinese/22.AGI通用人工智能公司.txt)
 * [23.辩论者](fenwii/structed-prompt/llms/chinese/23.辩论者.txt)
 * [24.辩论教练](fenwii/structed-prompt/llms/chinese/24.辩论教练.txt)
+* [25.ChatGPT提示工程师](fenwii/structed-prompt/llms/chinese/25.ChatGPT提示工程师.txt)
 
 
 ## 微信体验交流群
