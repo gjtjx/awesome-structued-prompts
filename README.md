@@ -52,9 +52,8 @@
 * [20.番茄工作法](fenwii/structed-prompt/llms/chinese/20.番茄工作法.txt)
 * [21.康奈尔笔记法](fenwii/structed-prompt/llms/chinese/21.康奈尔笔记法.txt)
 * [22.AGI通用人工智能公司](fenwii/structed-prompt/llms/chinese/22.AGI通用人工智能公司.txt)
-
-
-
+* [23.辩论者](fenwii/structed-prompt/llms/chinese/23.辩论者.txt)
+* [24.辩论教练](fenwii/structed-prompt/llms/chinese/24.辩论教练.txt)
 
 
 ## 微信体验交流群
