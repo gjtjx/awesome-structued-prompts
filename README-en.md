@@ -30,28 +30,23 @@ Directly copy the structured prompt text content to ChatGPT、Claude、ChatGLM�
 
 ##  Structued-Prompt
 <p align="center">
-=================Deep communication==================
+===Deep communication===
 </p>
 
 <p align="center">
       Power generation for AI, power generation for AGI universal artificial intelligence
 </p>
 
-<p align="center">
-================Fenwii community================
-</p>
+
 
 <p align="center">
 
 	Structured Questioning Knowledge Planet: Advanced Library of Artificial Intelligence Structured Questioning Prompt https://t.zsxq.com/0aPlA3QML
 
 </p>  
-</p>  
+
 <p align="center">
-================Fenwii community================
-</p>
-<p align="center">
-=================Deep communication==================
+===Deep communication===
 </p>
 
 # Star History
