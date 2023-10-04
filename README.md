@@ -51,6 +51,9 @@
 * [19.SQ3R阅读法](fenwii/structed-prompt/llms/chinese/19.SQ3R阅读法.txt)
 * [20.番茄工作法](fenwii/structed-prompt/llms/chinese/20.番茄工作法.txt)
 * [21.康奈尔笔记法](fenwii/structed-prompt/llms/chinese/21.康奈尔笔记法.txt)
+* [22.AGI通用人工智能公司](fenwii/structed-prompt/llms/chinese/22.AGI通用人工智能公司.txt)
+
+
 
 <p align="center">
 =================深度交流==================
@@ -76,3 +79,24 @@
 <p align="center">
 =================深度交流==================
 </p>
+
+## 微信体验交流群
+
+加入Prompt结构化提问体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
+
+项目合作洽谈请联系微信 [点我](https://c9ki7hypo6.feishu.cn/docx/M6z7doyWzoHsboxZO7ycqSHwnig)   （请注明来意，如有关于提示词问题需讨论请参考下文入群讨论）。
+
+|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          分微科技公众号                          |
+|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/fenwii/awesome-structued-prompts/fenwii/structed-prompt/assets/image/prompt.jpg" width="300"/> | <img src="https://github.com/fenwii/awesome-structued-prompts/fenwii/structed-prompt/assets/image/samir.jpg" width="300"/> |  <img src="https://github.com/fenwii/awesome-structued-prompts/fenwii/structed-prompt/assets/image/fenwii.jpg" width="300"/> |
+
+ 
+
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fenwii/awesome-structued-prompts&type=Date)](https://star-history.com/#fenwii/awesome-structued-prompts&Date)
+
+## 感谢
+
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分结构化原始内容数据参考于awesome-chatgpt-prompts，受启发，2023年1月初总结出结构化提示词公式。
