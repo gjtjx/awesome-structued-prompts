@@ -55,6 +55,17 @@
 * [23.辩论者](fenwii/structed-prompt/llms/chinese/23.辩论者.txt)
 * [24.辩论教练](fenwii/structed-prompt/llms/chinese/24.辩论教练.txt)
 * [25.ChatGPT提示工程师](fenwii/structed-prompt/llms/chinese/25.ChatGPT提示工程师.txt)
+* [26.编剧](fenwii/structed-prompt/llms/chinese/26.编剧.txt)
+* [27.小说家](fenwii/structed-prompt/llms/chinese/27.小说家.txt)
+* [28.影评人](fenwii/structed-prompt/llms/chinese/28.影评人.txt)
+* [29.关系教练](fenwii/structed-prompt/llms/chinese/29.关系教练.txt)
+* [30.诗人](fenwii/structed-prompt/llms/chinese/30.诗人.txt)
+* [31.说唱歌手](fenwii/structed-prompt/llms/chinese/31.说唱歌手.txt)
+* [32.激励演讲者](fenwii/structed-prompt/llms/chinese/32.激励演讲者.txt)
+* [33.哲学教师](fenwii/structed-prompt/llms/chinese/33.哲学教师.txt)
+* [34.哲学家](fenwii/structed-prompt/llms/chinese/34.哲学家.txt)
+* [35.数学老师](fenwii/structed-prompt/llms/chinese/35.数学老师.txt)
+* [36.AI写作导师](fenwii/structed-prompt/llms/chinese/36.AI写作导师.txt)
 
 
 ## 微信体验交流群
