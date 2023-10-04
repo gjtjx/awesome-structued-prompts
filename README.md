@@ -2,8 +2,8 @@
 ⚡️Awesome-Structued-Prompts
 </h1>
 <p align="center">
-  <a href="https://github.com/fenwii/LibraryBookSearchEnginePro">
-    <img src="images/LibraryBookSearchEngine.gif" width="750px">
+  <a href="https://github.com/fenwii/structed-prompts">
+    <img src="https://www.promptx3.app/img/duckmole.png" width="750px">
   </a>
 </p>
 <p align="center">
