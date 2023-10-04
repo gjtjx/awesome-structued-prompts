@@ -53,3 +53,11 @@ Directly copy the structured prompt text content to ChatGPT、Claude、ChatGLM�
 <p align="center">
 =================Deep communication==================
 </p>
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fenwii/awesome-structued-prompts&type=Date)](https://star-history.com/#fenwii/awesome-structued-prompts&Date)
+
+## 感谢
+
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  Part of the structured original content data in this article is based on awe some chat prompt prompts. Inspired by this, a structured prompt word formula was summarized in early January 2023.
