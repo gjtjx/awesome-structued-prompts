@@ -66,7 +66,7 @@
 * [34.哲学家](fenwii/structed-prompt/llms/chinese/34.哲学家.txt)
 * [35.数学老师](fenwii/structed-prompt/llms/chinese/35.数学老师.txt)
 * [36.AI写作导师](fenwii/structed-prompt/llms/chinese/36.AI写作导师.txt)
-
+* [37.提问高手](fenwii/structed-prompt/llms/chinese/37.提问高手.txt)
 
 ## 微信体验交流群
 
