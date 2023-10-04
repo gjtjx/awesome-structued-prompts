@@ -65,7 +65,7 @@
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          分微科技公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/fenwii/awesome-structued-prompts/blob/main/fenwii/structed-prompt/assets/image/prompt.jpg" width="300"/> | <img src="https://github.com/fenwii/awesome-structued-prompts/blob/main/fenwii/structed-prompt/assets/image/samir.jpg" width="300"/> |  <img src="https://github.com/fenwii/awesome-structued-prompts/blob/main/fenwii/structed-prompt/assets/image/fenwii.jpg" width="300"/> |
+| <img src="https://www.promptx3.app/img/prompt.jpg" width="300"/> | <img src="https://www.promptx3.app/img/samir.jpg" width="300"/> |  <img src="https://www.promptx3.app/img/fenwii.jpg" width="300"/> |
 
  
 <p align="center">
