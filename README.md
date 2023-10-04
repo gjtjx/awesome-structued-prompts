@@ -49,6 +49,7 @@
 * [17.费曼学习法](fenwii/structed-prompt/llms/chinese/17.费曼学习法.txt)
 * [18.西蒙学习法](fenwii/structed-prompt/llms/chinese/18.西蒙学习法.txt)
 * [19.SQ3R阅读法](fenwii/structed-prompt/llms/chinese/19.SQ3R阅读法.txt)
+* [20.番茄工作法](fenwii/structed-prompt/llms/chinese/20.番茄工作法.txt)
 * [21.康奈尔笔记法](fenwii/structed-prompt/llms/chinese/21.康奈尔笔记法.txt)
 
 <p align="center">
