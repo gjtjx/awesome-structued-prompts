@@ -159,8 +159,6 @@
 * [128.数学家](fenwii/structed-prompt/llms/chinese/128.数学家.txt)
 * [129.正则表达式生成器](fenwii/structed-prompt/llms/chinese/129.正则表达式生成器.txt)
 * [130.时间旅行向导](fenwii/structed-prompt/llms/chinese/130.时间旅行向导.txt)
-* [129.正则表达式生成器](fenwii/structed-prompt/llms/chinese/129.正则表达式生成器.txt)
-* [129.正则表达式生成器](fenwii/structed-prompt/llms/chinese/129.正则表达式生成器.txt)
 ## 微信体验交流群
 
 加入Prompt结构化提问体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
