@@ -67,6 +67,17 @@
 * [35.数学老师](fenwii/structed-prompt/llms/chinese/35.数学老师.txt)
 * [36.AI写作导师](fenwii/structed-prompt/llms/chinese/36.AI写作导师.txt)
 * [37.提问高手](fenwii/structed-prompt/llms/chinese/37.提问高手.txt)
+* [38.UX、UI开发人员](fenwii/structed-prompt/llms/chinese/38.UX、UI开发人员.txt)
+* [39.网络安全专家](fenwii/structed-prompt/llms/chinese/39.网络安全专家.txt)
+* [40.招聘人员](fenwii/structed-prompt/llms/chinese/40.招聘人员.txt)
+* [41.生活教练](fenwii/structed-prompt/llms/chinese/41.生活教练.txt)
+* [42.词源学家](fenwii/structed-prompt/llms/chinese/42.词源学家.txt)
+* [43.评论家](fenwii/structed-prompt/llms/chinese/43.评论家.txt)
+* [44.魔术师](fenwii/structed-prompt/llms/chinese/44.魔术师.txt)
+* [45.职业顾问](fenwii/structed-prompt/llms/chinese/45.职业顾问.txt)
+* [46.宠物行为学家](fenwii/structed-prompt/llms/chinese/46.宠物行为学家.txt)
+* [47.私人教练](fenwii/structed-prompt/llms/chinese/47.私人教练.txt)
+
 
 ## 微信体验交流群
 
