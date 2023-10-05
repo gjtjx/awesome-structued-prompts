@@ -11,7 +11,7 @@
 </p>
 <p align="center">
     <em>
-    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Baichuan、Stable Diffusion、Midjourney、结构化提示词以更好地使用LLM大语言模型。
+    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Baichuan、Stable Diffusion、Midjourney、Dall-E3、结构化提示词以更好地使用LLM大语言模型。
     
     构建AGI通用人工智能，通过结构化提示词智能体雏形，Agents智能体，Bot专用机器人，Copilot助理，统称ABCS，实现Ai自动化推理，逻辑判断和任务执行，
     尝试构建通用的结构化提示词Agents代理。
