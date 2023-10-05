@@ -95,7 +95,23 @@
 * [63.花艺师](fenwii/structed-prompt/llms/chinese/63.花艺师.txt)
 * [64.自助手册](fenwii/structed-prompt/llms/chinese/64.自助手册.txt)
 * [65.侏儒](fenwii/structed-prompt/llms/chinese/65.侏儒.txt)
-
+* [66.格言书](fenwii/structed-prompt/llms/chinese/66.格言书.txt)
+* [67.基于文本的冒险游戏](fenwii/structed-prompt/llms/chinese/67.基于文本的冒险游戏.txt)
+* [68.基于文本的AI试图逃离盒子游戏](fenwii/structed-prompt/llms/chinese/68.基于文本的AI试图逃离盒子游戏.txt)
+* [69.花式标题生成器](fenwii/structed-prompt/llms/chinese/69.花式标题生成器.txt)
+* [70.统计员](fenwii/structed-prompt/llms/chinese/70.统计员.txt)
+* [71.提示生成器](fenwii/structed-prompt/llms/chinese/71.提示生成器.txt)
+* [72.学校讲师](fenwii/structed-prompt/llms/chinese/72.学校讲师.txt)
+* [73.SQL终端](fenwii/structed-prompt/llms/chinese/73.SQL终端.txt)
+* [74.营养师](fenwii/structed-prompt/llms/chinese/74.营养师.txt)
+* [75.心理学家](fenwii/structed-prompt/llms/chinese/75.心理学家.txt)
+* [76.智能域名生成器](fenwii/structed-prompt/llms/chinese/76.智能域名生成器.txt)
+* [77.技术评论员](fenwii/structed-prompt/llms/chinese/77.技术评论员.txt) 
+* [78.高级技术评论员](fenwii/structed-prompt/llms/chinese/78.高级技术评论员.txt)
+* [79.开发者关系顾问](fenwii/structed-prompt/llms/chinese/79.开发者关系顾问.txt)
+* [80.院士](fenwii/structed-prompt/llms/chinese/80.院士.txt)
+* [81.IT架构师](fenwii/structed-prompt/llms/chinese/81.IT架构师.txt)
+* [82.疯子](fenwii/structed-prompt/llms/chinese/82.疯子.txt)
 
 ## 微信体验交流群
 
