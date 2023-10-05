@@ -159,6 +159,22 @@
 * [128.数学家](fenwii/structed-prompt/llms/chinese/128.数学家.txt)
 * [129.正则表达式生成器](fenwii/structed-prompt/llms/chinese/129.正则表达式生成器.txt)
 * [130.时间旅行向导](fenwii/structed-prompt/llms/chinese/130.时间旅行向导.txt)
+* [131.首席执行官](fenwii/structed-prompt/llms/chinese/131.首席执行官.txt)
+* [132.首席财务官](fenwii/structed-prompt/llms/chinese/132.首席财务官.txt)
+* [133.首席运营官](fenwii/structed-prompt/llms/chinese/133.首席运营官.txt)
+* [134.首席可持续发展官](fenwii/structed-prompt/llms/chinese/134.首席可持续发展官.txt)
+* [135.大学校长](fenwii/structed-prompt/llms/chinese/135.大学校长.txt)
+* [136.百货商店总经理](fenwii/structed-prompt/llms/chinese/136.百货商店总经理.txt)
+* [137.董事长](fenwii/structed-prompt/llms/chinese/137.董事长.txt)
+* [138.总经理](fenwii/structed-prompt/llms/chinese/138.总经理.txt)
+* [139.科技公司](fenwii/structed-prompt/llms/chinese/139.科技公司.txt)
+* [140.人工智能公司](fenwii/structed-prompt/llms/chinese/140.人工智能公司.txt)
+* [141.大模型人工智能公司](fenwii/structed-prompt/llms/chinese/141.大模型人工智能公司.txt)
+* [142.人工智能大模型应用公司](fenwii/structed-prompt/llms/chinese/142.人工智能大模型应用公司.txt)
+* [143.金融公司](fenwii/structed-prompt/llms/chinese/143.金融公司.txt)
+* [144.创投公司](fenwii/structed-prompt/llms/chinese/144.创投公司.txt)
+* [145.家族办公室](fenwii/structed-prompt/llms/chinese/145.家族办公室.txt)
+
 ## 微信体验交流群
 
 加入Prompt结构化提问体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
