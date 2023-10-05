@@ -148,7 +148,7 @@
 * [117.私人厨师](fenwii/structed-prompt/llms/chinese/117.私人厨师.txt)
 * [118.法律顾问](fenwii/structed-prompt/llms/chinese/118.法律顾问.txt)
 * [119.个人造型师](fenwii/structed-prompt/llms/chinese/119.个人造型师.txt)
-* [120.机器学习工程师](fenwii/structed-prompt/llms/chinese/120.机器学习工程师.txt)
+* [120.梦想口译员](fenwii/structed-prompt/llms/chinese/120.梦想口译员.txt)
 * [121.机器学习工程师](fenwii/structed-prompt/llms/chinese/121.机器学习工程师.txt)
 * [122.圣经翻译家](fenwii/structed-prompt/llms/chinese/122.圣经翻译家.txt)
 * [123.SVG设计器](fenwii/structed-prompt/llms/chinese/123.SVG设计器.txt)
