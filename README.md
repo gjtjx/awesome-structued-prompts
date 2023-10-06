@@ -182,6 +182,8 @@
 * [152.金字塔思维](fenwii/structed-prompt/llms/chinese/152.金字塔思维.txt)
 * [153.思维导图](fenwii/structed-prompt/llms/chinese/153.思维导图.txt)
 * [154.六顶思考帽](fenwii/structed-prompt/llms/chinese/154.六顶思考帽.txt)
+* [155.复盘](fenwii/structed-prompt/llms/chinese/155.复盘.txt)
+
 
 ## 微信体验交流群
 
