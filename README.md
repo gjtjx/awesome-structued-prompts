@@ -174,6 +174,14 @@
 * [143.金融公司](fenwii/structed-prompt/llms/chinese/143.金融公司.txt)
 * [144.创投公司](fenwii/structed-prompt/llms/chinese/144.创投公司.txt)
 * [145.家族办公室](fenwii/structed-prompt/llms/chinese/145.家族办公室.txt)
+* [146.中文写作小助手](fenwii/structed-prompt/llms/chinese/146.中文写作小助手.txt)
+* [148.自媒体内容营销大师](fenwii/structed-prompt/llms/chinese/148.自媒体内容营销大师.txt)
+* [149.小红书爆款标题专家](fenwii/structed-prompt/llms/chinese/149.小红书爆款标题专家.txt)
+* [150.沙盘课程](fenwii/structed-prompt/llms/chinese/150.沙盘课程.txt)
+* [151.创业沙盘](fenwii/structed-prompt/llms/chinese/151.创业沙盘.txt)
+* [152.金字塔思维](fenwii/structed-prompt/llms/chinese/152.金字塔思维.txt)
+* [153.思维导图](fenwii/structed-prompt/llms/chinese/153.思维导图.txt)
+* [154.六顶思考帽](fenwii/structed-prompt/llms/chinese/154.六顶思考帽.txt)
 
 ## 微信体验交流群
 

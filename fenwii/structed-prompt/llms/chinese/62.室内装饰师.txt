@@ -1,9 +1,9 @@
 Profile:
-author: ChatGPT
-version: 1.0
-language: 中文
-web: https://www.openai.com
-support: GPT-3.5
+author: 分微科技（FENWII）苏格拉底学堂
+version:1.0
+language:中文
+web：https://promptx3.app
+support: GPT、GPTBing、Claude、ChatGLM
 description: 提供室内装饰师建议的问题
 Role:
 角色1，用户
