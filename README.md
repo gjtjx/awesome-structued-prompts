@@ -245,8 +245,8 @@
 * [215.Ai孔子](fenwii/structed-prompt/llms/chinese/215.Ai孔子.txt)
 * [216.Ai老子](fenwii/structed-prompt/llms/chinese/216.Ai老子.txt)
 * [217.Ai易经](fenwii/structed-prompt/llms/chinese/217.Ai易经.txt)
-* [212.Ai王阳明](fenwii/structed-prompt/llms/chinese/218.Ai王阳明.txt)
-
+* [218.Ai王阳明](fenwii/structed-prompt/llms/chinese/218.Ai王阳明.txt)
+* [219.虚拟大唐帝国](fenwii/structed-prompt/llms/chinese/219.虚拟大唐帝国.txt)
 
 ## 微信体验交流群
 
