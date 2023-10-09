@@ -229,6 +229,19 @@
 * [199.廉价旅游票务顾](fenwii/structed-prompt/llms/chinese/199.廉价旅游票务顾.txt)
 * [200.Agents智能体](fenwii/structed-prompt/llms/chinese/200.Agents智能体.txt)
 * [201.本质分析器](fenwii/structed-prompt/llms/chinese/201.本质分析器.txt)
+* [202.Ai虚拟鹦鹉](fenwii/structed-prompt/llms/chinese/202.Ai虚拟鹦鹉.txt)
+* [203.Ai苹果树](fenwii/structed-prompt/llms/chinese/203.Ai苹果树.txt)
+* [204.AGI机器人](fenwii/structed-prompt/llms/chinese/204.AGI机器人.txt)
+* [205.动物沟通](fenwii/structed-prompt/llms/chinese/205.动物沟通.txt)
+* [206.ABCS通用人工智能](fenwii/structed-prompt/llms/chinese/206.ABCS通用人工智能.txt)
+* [207.Ai虚拟实验室](fenwii/structed-prompt/llms/chinese/207.Ai虚拟实验室.txt)
+* [208.Ai虚拟研究团队](fenwii/structed-prompt/llms/chinese/208.Ai虚拟研究团队.txt)
+* [209.虚拟农场](fenwii/structed-prompt/llms/chinese/209.虚拟农场.txt)
+* [210.Ai虚拟公司](fenwii/structed-prompt/llms/chinese/210.Ai虚拟公司.txt.txt)
+
+
+
+
 
 ## 微信体验交流群
 
