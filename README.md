@@ -240,7 +240,12 @@
 * [210.Ai虚拟公司](fenwii/structed-prompt/llms/chinese/210.Ai虚拟公司.txt)
 * [211.虚拟花园](fenwii/structed-prompt/llms/chinese/211.虚拟花园.txt)
 * [212.虚拟公共图书馆](fenwii/structed-prompt/llms/chinese/212.虚拟公共图书馆.txt)
-
+* [213.虚拟古罗马](fenwii/structed-prompt/llms/chinese/213.虚拟古罗马.txt)
+* [214.虚拟文艺复兴](fenwii/structed-prompt/llms/chinese/214.虚拟文艺复兴.txt)
+* [215.Ai孔子](fenwii/structed-prompt/llms/chinese/215.Ai孔子.txt)
+* [216.Ai老子](fenwii/structed-prompt/llms/chinese/216.Ai老子.txt)
+* [217.Ai易经](fenwii/structed-prompt/llms/chinese/217.Ai易经.txt)
+* [212.Ai王阳明](fenwii/structed-prompt/llms/chinese/218.Ai王阳明.txt)
 
 
 ## 微信体验交流群
