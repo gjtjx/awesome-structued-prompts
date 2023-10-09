@@ -237,9 +237,9 @@
 * [207.Ai虚拟实验室](fenwii/structed-prompt/llms/chinese/207.Ai虚拟实验室.txt)
 * [208.Ai虚拟研究团队](fenwii/structed-prompt/llms/chinese/208.Ai虚拟研究团队.txt)
 * [209.虚拟农场](fenwii/structed-prompt/llms/chinese/209.虚拟农场.txt)
-* [210.Ai虚拟公司](fenwii/structed-prompt/llms/chinese/210.Ai虚拟公司.txt.txt)
-
-
+* [210.Ai虚拟公司](fenwii/structed-prompt/llms/chinese/210.Ai虚拟公司.txt)
+* [211.虚拟花园](fenwii/structed-prompt/llms/chinese/211.虚拟花园.txt)
+* [212.虚拟公共图书馆](fenwii/structed-prompt/llms/chinese/212.虚拟公共图书馆.txt)
 
 
 
