@@ -11,7 +11,7 @@
 </p>
 <p align="center">
     <em>
-    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Baichuan、Stable Diffusion、Midjourney、Dall-E3、结构化提示词以更好地使用LLM大语言模型。
+    本repo包括ChatGPT、Claude、智谱ChatGLM、百川Baichuan、Stable Diffusion、Midjourney、Dall-E3、GPT-4V，结构化提示词以更好地使用LLM大语言模型。
     
     构建AGI通用人工智能，通过结构化提示词智能体雏形，Agents智能体，Bot专用机器人，Copilot助理，统称ABCS，实现Ai自动化推理，逻辑判断和任务执行，
     尝试构建通用的结构化提示词Agents代理。
@@ -27,9 +27,9 @@
 
 ## 使用方法
 
-直接拷贝结构化提示词文本内容到ChatGPT、Claude、智谱ChatGLM、百川Baichuat、Stable Diffusion、Midjourney平台输入框。
+直接拷贝结构化提示词文本内容到ChatGPT、Claude、智谱ChatGLM、百川Baichuat、Stable Diffusion、Midjourney,Dall-E3 平台输入框。
 
-## 结构化提问
+## ChatGPT、Claude、智谱ChatGLM、百川Baichuan 结构化提问
 * [1.Linux终端](fenwii/structed-prompt/llms/chinese/1.Linux终端.txt)
 * [2.英语翻译家与优化师](fenwii/structed-prompt/llms/chinese/2.英语翻译家与优化师.txt)
 * [3.职位面试官](fenwii/structed-prompt/llms/chinese/3.职位面试官.txt)
@@ -247,6 +247,56 @@
 * [217.Ai易经](fenwii/structed-prompt/llms/chinese/217.Ai易经.txt)
 * [218.Ai王阳明](fenwii/structed-prompt/llms/chinese/218.Ai王阳明.txt)
 * [219.虚拟大唐帝国](fenwii/structed-prompt/llms/chinese/219.虚拟大唐帝国.txt)
+
+
+## Stable Diffusion 结构化提问
+
+## Midjourney 结构化提问
+
+
+## GPT4V 结构化提问
+
+
+## Dall-E3 结构化提问
+介绍
+DALL·E 3是一个由OpenAI开发的模型，它可以根据文本描述生成高质量的图像。这意味着你可以给它一个文本描述，例如“夜晚的沙漠风景”，然后DALL·E 3会为你生成与描述匹配的图像。以下是DALL·E 3的一些主要功能：
+
+文本到图像：你可以提供一个详细的描述，并要求DALL·E 3为你生成与之匹配的图像。
+
+多样性：DALL·E 3可以为同一个描述生成多种不同风格和内容的图像。
+
+高分辨率：该模型可以生成高分辨率的图像，包括宽幅、正方形和高幅格式。
+
+遵守策略：DALL·E 3遵循某些策略来确保生成的图像是合适和不冒犯的。
+
+使用建议
+使用DALL·E 3主要是通过向其提供文本描述来生成图像。以下是详细的步骤和一些建议，以帮助你更好地使用DALL·E 3：
+
+详细描述：
+
+为了获得最佳结果，请尽可能提供详细的描述。例如，不仅仅描述“山”，而是“夕阳下的雪山”。
+描述中的细节可以帮助模型更好地理解你的意图并生成相应的图像。
+考虑格式：
+
+你可以为生成的图像指定格式，例如正方形、宽幅或高幅。
+默认情况下，图像是正方形格式（1024x1024像素）。
+多样性：
+
+你可以要求生成多个不同风格和内容的图像，这样你就可以从中选择最满意的一个。
+例如，对于同一个描述，DALL·E 3可以生成四个不同的图像。
+避免敏感内容：
+
+DALL·E 3遵循某些策略来确保生成的图像是合适和不冒犯的。例如，它不会生成公众人物的图像或近代艺术家的风格图像。
+尝试与探索：
+
+不同的描述可能会产生截然不同的结果。如果你对初次生成的图像不满意，可以尝试调整描述或提供更多的细节。
+请求生成：
+
+一旦你确定了描述，可以直接请求DALL·E 3生成图像。
+
+
+
+
 
 ## 微信体验交流群
 

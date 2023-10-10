@@ -11,7 +11,7 @@
 </p>
 <p align="center">
     <em>
-    This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,Dall-E3、structued-prompt curation to use LLM better.
+    This repo includes ChatGPT,Claude,ChatGLM,Baichuan,Stable Diffusion,Midjourney,Dall-E3、GPT-4V，structued-prompt curation to use LLM better.
 
 
     Building AGI universal artificial intelligence, through the prototype of structured prompt word intelligent agents, Agents intelligent agents, Bot specialized robots, Copilot assistants, collectively known as ABCS, to achieve AI automated reasoning, logical interpretation, and task execution.
@@ -28,7 +28,7 @@
 ## Usage method
 Directly copy the structured prompt text content to ChatGPT、Claude、ChatGLM、Baichuan，Stable Diffusion,Midjourney Platform Input Box.
 
-##  Structued-Prompt
+## ChatGPT、Claude、ChatGLM、Baichuan Structued-Prompt
 <p align="center">
 ===Deep communication===
 </p>
